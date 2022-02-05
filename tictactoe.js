@@ -72,3 +72,8 @@ var game = function() {
     }
     
 }
+
+var ticTacToe = game();
+
+// Start the game!
+ticTacToe.drawBoard(true);
